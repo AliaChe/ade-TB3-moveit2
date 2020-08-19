@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+
+# For QGroundControl
+sudo usermod -a -G dialout $USER
+
+# Build ROS
+if [[ ! -e ~/turtlebot3_moveit2_ws ]]; then
+    steps ~/build_workspace.steps.sh
+fi

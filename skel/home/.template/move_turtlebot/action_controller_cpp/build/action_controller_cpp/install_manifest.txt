@@ -1,0 +1,12 @@
+/home/alia/action_controller_cpp/install/action_controller_cpp/lib/action_controller_cpp/actionController
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/ament_index/resource_index/package_run_dependencies/action_controller_cpp
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/ament_index/resource_index/parent_prefix_path/action_controller_cpp
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/environment/ament_prefix_path.sh
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/environment/path.sh
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/local_setup.bash
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/local_setup.sh
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/local_setup.zsh
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/ament_index/resource_index/packages/action_controller_cpp
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/cmake/action_controller_cppConfig.cmake
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/cmake/action_controller_cppConfig-version.cmake
+/home/alia/action_controller_cpp/install/action_controller_cpp/share/action_controller_cpp/package.xml

@@ -1,0 +1,15 @@
+
+export ADE_IMAGES="
+  image_ade
+  registry.gitlab.com/apexai/ade-vscode:latest
+"
+# registry.gitlab.com/apexai/ade-vscode:latest
+# registry.gitlab.com/apexai/ade-atom:latest
+# registry.gitlab.com/deb0ch/ade-sublimetext3:latest
+# registry.gitlab.com/deb0ch/ade-emacs:latest
+
+export ADE_ENTER_CMD=zsh
+
+export ADE_DOCKER_RUN_ARGS="
+  --ipc host
+"

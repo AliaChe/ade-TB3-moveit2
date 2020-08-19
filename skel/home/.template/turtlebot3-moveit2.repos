@@ -1,0 +1,65 @@
+repositories:
+  geometric_shapes:
+    type: git
+    url: https://github.com/ros-planning/geometric_shapes
+    version: ae1229846bf92ca752a7d652554e928b02f9f192
+  joint_state_publisher:
+    type: git
+    url: https://github.com/ros/joint_state_publisher
+    version: a0eabf4d7acb3e7518c49f587ec09aabaca7857f
+  moveit2:
+    type: git
+    url: https://github.com/ros-planning/moveit2.git
+    version: 73ee4b811b9d563c181f6db94ba24aafa5a74b94
+  moveit_msgs:
+    type: git
+    url: https://github.com/ros-planning/moveit_msgs
+    version: 524026c6475c5d5f3e4a80d348bbd264a2dce9dc
+  moveit_resources:
+    type: git
+    url: https://github.com/ros-planning/moveit_resources
+    version: 0400e1f541c143b7638041dd41a98bdd96c6e6bb
+  object_recognition_msgs:
+    type: git
+    url: https://github.com/PickNikRobotics/object_recognition_msgs
+    version: 467db6193e680ba54f0a0fb0182c6ca081338cc3
+  octomap_msgs:
+    type: git
+    url: https://github.com/OctoMap/octomap_msgs
+    version: 65d0b3b81f890b5dc3bf531abe0e8c12ef3858e2
+  ompl:
+    type: git
+    url: https://github.com/ros-gbp/ompl-release.git
+    version: bbd79eb27ecbfec4fbf9a80c7c13b3a4610e4ad2
+  random_numbers:
+    type: git
+    url: https://github.com/ros-planning/random_numbers
+    version: 62a1537d703821087dd0487bedd152ce0c0a8e27
+  srdfdom:
+    type: git
+    url: https://github.com/ros-planning/srdfdom
+    version: 986600964047f54c38e0da8164c7fb17ebcf46ec
+  turtlebot3/turtlebot3:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3.git
+    version: fb6b9ac8a71d7378d94086a5211177447892605d
+  turtlebot3/turtlebot3_msgs:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    version: 606f339adcb7f4a9d03c6dd0b5c9e5402ea04e97
+  turtlebot3/turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: 9ecdd65e6bb4784bb51a7f4c0178296abb447b7a
+  urdf_parser_py:
+    type: git
+    url: https://github.com/ros/urdf_parser_py
+    version: b44187f0bfd96aa15d17988fb79582b5e6a56eac
+  utils/DynamixelSDK:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+    version: 34efea0ed638a891c5e0fd1448b8fc8579788f8d
+  utils/hls_lfcd_lds_driver:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+    version: a97dfe15052e5b37015e438a4253b4aa87954723

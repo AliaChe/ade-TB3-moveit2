@@ -1,0 +1,6 @@
+{
+  "package_name": "action_description",
+  "non_idl_tuples": [
+    "/home/alia/action_description:action/FollowJointTrajectory.action"
+  ]
+}

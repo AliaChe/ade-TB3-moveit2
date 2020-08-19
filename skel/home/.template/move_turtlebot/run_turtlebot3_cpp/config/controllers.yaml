@@ -1,0 +1,8 @@
+controller_names:
+  - multi_dof_joint_trajectory_action
+    
+multi_dof_joint_trajectory_action:    
+    type: MultiDofFollowJointTrajectory
+    default: true
+    joints:
+      - virtual_joint
